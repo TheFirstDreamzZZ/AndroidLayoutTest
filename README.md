@@ -4,7 +4,7 @@
 
 ###     实验要求：利用线性布局实现以下界面 
 
-![](https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/title1.png)</br>
+![](https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/title1.png) </br>
 
 
 [点此查看实验代码](https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/src/main/res/layout/test1.xml)</br>
@@ -29,6 +29,6 @@ android:background="@drawable/buttonshape"
 
 ###     实验结果截图：
 
-![](https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test1.png)</br>
+![](https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test1.png) </br>
 
 ## 实验二
