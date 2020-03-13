@@ -28,6 +28,6 @@ android:background="@drawable/buttonshape"
 
 ###     实验结果截图：
 
-<img src="https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test1.png" width="500" />
+<img src="https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test1.png" width="375" />
 
 ## 实验二
