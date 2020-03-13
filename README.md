@@ -44,7 +44,7 @@ android:background="@drawable/buttonshape"
 
 <img src="https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test1.png" width="375" />
 
-## 实验二
+## 实验2
 
 ###     实验要求：利用约束布局实现以下界面 
 
@@ -75,7 +75,7 @@ android:background="@drawable/buttonshape"
 
 <img src="https://github.com/TheFirstDreamzZZ/AndroidLayoutTest/blob/master/app/ScreenShot/test2.png" width="375" />
 
-## 实验三
+## 实验3
 
 ###     实验要求：利用表格布局实现以下界面
 
